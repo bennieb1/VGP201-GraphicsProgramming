@@ -1808,3 +1808,25 @@ Script Stack (0 frames) :
 [2025.10.24-16.07.10:858][ 14]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed_Auto1
 [2025.10.24-16.07.10:858][ 14]LogSavePackage: Moving '../../../../../../TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Saved/ABP_Unarmed_Auto1A9D0EA1B4104FA1EF810BE96ECA6CC8F.tmp' to '../../../../../../TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Saved/Autosaves/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed_Auto1.uasset'
 [2025.10.24-16.07.10:859][ 14]LogFileHelpers: Auto-saving content packages took 0.083
+[2025.10.24-16.10.00:998][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.24-16.10.03:387][118]LogSlate: Window 'Save Content' being destroyed
+[2025.10.24-16.10.03:419][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.10.03:457][118]LogFileHelpers: Saving Package: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed
+[2025.10.24-16.10.03:457][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed] ([2] browsable assets)...
+[2025.10.24-16.10.03:457][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed]
+[2025.10.24-16.10.03:505][118]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed
+[2025.10.24-16.10.03:505][118]LogSavePackage: Moving '../../../../../../TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Saved/ABP_Unarmed2EFAB4364E9955AE6C087E88AA0FAE56.tmp' to '../../../../../../TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset'
+[2025.10.24-16.10.03:517][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.282 ms (total: 705.309 ms)
+[2025.10.24-16.10.03:566][118]LogContentValidation: Enabled validators:
+[2025.10.24-16.10.03:566][118]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.10.03:566][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.10.03:566][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.10.03:566][118]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.10.03:566][118]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.10.03:566][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.10.03:566][118]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2025.10.24-16.10.03:566][118]LogContentValidation: Additional assets added for validation by 0 validators:
+[2025.10.24-16.10.03:566][118]AssetCheck: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed Validating asset
+[2025.10.24-16.10.03:566][118]LogContentValidation: Validated asset counts for 1 validators:
+[2025.10.24-16.10.03:566][118]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2025.10.24-16.10.23:463][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
