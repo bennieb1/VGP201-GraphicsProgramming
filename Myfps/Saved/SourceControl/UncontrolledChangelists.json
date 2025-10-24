@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/Input/IMC_Default.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/NY/SBQXV76UOIKTSMDL43UO9Q.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/PA/9E02X6KBW0I3F9BIL4K9HZ.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/ZJ/VCX1JOQPBGEHM1OL4L2061.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Interfaces/BPI_Interact.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/AnimStarterPack/UE6/UE6_Idle_Pistol.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/FirstPerson/Anims/ABP_FP_Copy.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Props/Pickups/BP_PickUpMaster.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Props/Pickups/BP_Pistols_A_Pickup.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Props/Pickups/BP_WeaponPickup.uasset"
+			]
+		}
+	]
+}
