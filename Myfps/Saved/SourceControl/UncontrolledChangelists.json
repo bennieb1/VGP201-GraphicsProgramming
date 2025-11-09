@@ -25,7 +25,16 @@
 				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/MilitaryWeapSilver/Weapons/Pistols_A_Skeleton.uasset",
 				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/AnimStarterPack/UE6/UE6_Idle_Rifle_Ironsights.uasset",
 				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Props/Weapons/BP_WeaponMaster.uasset",
-				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/T8/XYY46A0M417520C79Q6SIQ.uasset"
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/T8/XYY46A0M417520C79Q6SIQ.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Maps/MainMenu.umap",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/BluePrints/MainMenu/BP_MainMenuGameMode.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/BluePrints/MainMenu/GUI/WBP_MainMenu.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/BluePrints/GameMenu/GUI/WBP_GameMenu.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter1.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/BluePrints/GameOverMenu/GUI/BP_GameOver.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/BluePrints/GameOverMenu/GUI/WBP_GameOver.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Maps/GameOver.umap"
 			]
 		}
 	]
