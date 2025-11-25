@@ -1,2 +1,3 @@
-2025/11/09-17:10:56.956 6fb0 Creating DB D:\TFS\Term 4\GraphicsProgramming\Assignment\VGP201-GraphicsProgramming\VGP201-GraphicsProgramming\Myfps\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2025/11/09-17:10:56.981 6fb0 Reusing MANIFEST D:\TFS\Term 4\GraphicsProgramming\Assignment\VGP201-GraphicsProgramming\VGP201-GraphicsProgramming\Myfps\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/24-19:11:31.054 f8a4 Reusing MANIFEST D:\TFS\Term 4\GraphicsProgramming\Assignment\VGP201-GraphicsProgramming\VGP201-GraphicsProgramming\Myfps\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/24-19:11:31.064 f8a4 Recovering log #3
+2025/11/24-19:11:31.066 f8a4 Reusing old log D:\TFS\Term 4\GraphicsProgramming\Assignment\VGP201-GraphicsProgramming\VGP201-GraphicsProgramming\Myfps\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
